@@ -1,0 +1,12 @@
+Checker
+
+1. OK Args a checker et parser dans liste hainee.
+2. OK Elements de la structure a checker.
+3. OK Read les instructions a partir de l'entree standard.
+4. OK stocker les instructions dans liste chainee. (t_list)
+4. OK checker si les insruction sont correctes.
+5. OK Executer chaque instruction.
+6. OK Verifier si la liste chainee est bien triee.
+7. OK verifier que b est vide.
+8. OK Si tout ok, impr OK sinon KO.
+9. OK Free all.
